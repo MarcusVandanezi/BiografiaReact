@@ -1,0 +1,9 @@
+:root {
+  margin-top: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1f1f1f;
+  color: #aaaaaa;
+  padding: 3px;
+}

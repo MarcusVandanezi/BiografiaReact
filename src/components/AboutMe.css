@@ -1,0 +1,17 @@
+.profile-photo {
+  border-radius: 600px;
+  height: 200px;
+  width: 200px;
+  margin-right: 50px;
+  background-color: #2a2a2a;
+}
+
+h1 {
+  font-size: 38px;
+  color: #e0e0e0;
+}
+
+p {
+  display: block;
+  color: #e0e0e0;
+}
