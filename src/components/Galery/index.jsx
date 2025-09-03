@@ -1,3 +1,5 @@
+import "./Galery.css";
+
 function Galery() {
   return (
     <div>

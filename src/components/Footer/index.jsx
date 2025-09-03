@@ -1,6 +1,8 @@
+import "./Footer.css";
+
 function Footer() {
   return (
-    <div>
+    <div className="footer-div">
       <a
         target="_blank"
         href="https://www.linkedin.com/in/marcusviniciusvandanezi/"

@@ -1,3 +1,10 @@
+
+.about-div {
+  display: flex;
+  
+
+}
+
 .profile-photo {
   border-radius: 600px;
   height: 200px;
@@ -9,6 +16,7 @@
 h1 {
   font-size: 38px;
   color: #e0e0e0;
+
 }
 
 p {
