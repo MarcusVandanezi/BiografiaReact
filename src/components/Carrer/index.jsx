@@ -7,7 +7,7 @@ function Carrer() {
       <p>
         Trybe - Desenvolvimento Web FrontEnd  <br />
         Estácio - Graduação em Análise e Desenvolvimento de Sistemas 06/2023 - 12/2026 <br /> 
-        Dealwise - Estágio em desenvolvimento de software 01/04/2024 - 20/11/2024 <br />
+        Dealwise - Estágio em desenvolvimento de software 04/2024 - 11/2024 <br />
         ByteClass - Formação FullStack  06/2025 - 06/2026  <br />
       </p>
     </div>
